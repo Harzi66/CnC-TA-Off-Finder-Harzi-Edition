@@ -6,8 +6,8 @@
 // @author       Harzi
 // @match        https://*.alliances.commandandconquer.com/*/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/Harzi66/CnC-TA-Off-Finder-Harzi-Edition/main/CnC-TA-OFF-Finder-HE.user.js
-// @updateURL    https://raw.githubusercontent.com/Harzi66/CnC-TA-Off-Finder-Harzi-Edition/main/CnC-TA-OFF-Finder-HE.user.js
+// @downloadURL  https://raw.githubusercontent.com/Harzi66/CnC-TA-Off-Finder-Harzi-Edition/main/CnC-TA-OFF-Finder%20-%20HE.user.js
+// @updateURL    https://raw.githubusercontent.com/Harzi66/CnC-TA-Off-Finder-Harzi-Edition/main/CnC-TA-OFF-Finder%20-%20HE.user.js
 // ==/UserScript==
 
 /* global qx, ClientLib, webfrontend */
